@@ -3,5 +3,3 @@
 Sample text.
 Sample text.
 Sample text.
-
-## a boa.
